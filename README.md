@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacewalker795&label=Profile%20views&color=0e75b6&style=flat" alt="spacewalker795" /> </p>
 
+- 🔭 I’m currently working on **Rehan Singhal(Myself)**
+
 - 🌱 I’m currently learning **c++**
+
+- 👯 I’m looking to collaborate on **Anything new**
 
 - 🤝 I’m looking for help with **learning new languages**
 
@@ -11,8 +15,11 @@
 
 - 📫 How to reach me **@rehansinghal77@gmail.com**
 
+- ⚡ Fun fact **I think we will party together**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rehan singhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehan singhal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

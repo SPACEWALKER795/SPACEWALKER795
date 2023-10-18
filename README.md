@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm REHAN SINGAHL</h1>
 <h3 align="center">A passionate new learner from India</h3>
-<img src="https://yt3.googleusercontent.com/ytc/APkrFKZT5m9-y-aR0rXn2E3JLVWgFuO0hdjAB9dUOXyv=s900-c-k-c0x00ffffff-no-rj"></img>
+<img  style="width:250px,height:250px"   src="https://yt3.googleusercontent.com/ytc/APkrFKZT5m9-y-aR0rXn2E3JLVWgFuO0hdjAB9dUOXyv=s900-c-k-c0x00ffffff-no-rj"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacewalker795&label=Profile%20views&color=0e75b6&style=flat" alt="spacewalker795" /> </p>
 
 - 🔭 I’m currently working on **Rehan Singhal(Myself)**
